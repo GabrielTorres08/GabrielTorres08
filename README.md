@@ -1,6 +1,8 @@
 # 👨🏽‍💻 Gabriel Torres
 
-**`Desenvolvedor Web`**
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Web;Futuro+FullStack" />
+
+<br/>
 
 Me chamo Gabriel dos Santos Torres, tenho 16 anos e moro atualmente em João Pessoa - PB. Estou cursando um técnico de ADS (Análise e Desenvolvimento de Sistemas), até o momento tenho bastante afinidade com a área de desenvolvimento web, mas estou sempre em busca para aprender novas tecnologias e me consolidar futuramente como desenvolvedor FullStack. Tenho um canal recente no Youtube "[Ruina's camp](https://www.youtube.com/@Ruinascamp)", onde tenho foco em conteúdos voltados para programação.
 
@@ -86,20 +88,9 @@ Me chamo Gabriel dos Santos Torres, tenho 16 anos e moro atualmente em João Pes
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=GabrielTorres08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTorres08&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  width="48%" 
+  src="https://streak-stats.demolab.com?user=GabrielTorres08&theme=tokyonight" 
+/>
 
 </p>
